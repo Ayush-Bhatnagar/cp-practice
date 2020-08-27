@@ -1,0 +1,26 @@
+.
+Write a program to connect next left node in a binary tree. Also first node of each level should be pointing to last node of next level? (Without using Queue)
+Given a directed graph. Construct another graph from given graph such that if path exists from vertices A to vertices B and from B to C, then path from A to C and from C to A also should exists.
+Implement hashmap on your own. Write good hashing function for string.
+Given that integers are read from a data stream. Find median of elements read so for in efficient way. For simplicity assume there are no duplicates.
+Given string s and string t find whether all permutation of t is present as substring in s.
+Design a stack which holds an integer value such that getMinimum() function should return the minimum element in the stack. Implement popMin() function which would pop minimum element from the original stack.
+Given an array which is first strictly increasing and then strictly decreasing. Find an element in this array.
+Given a tree with edge weights, find any path in the tree with maximum sum of edges.
+Merge k sorted arrays.
+This problem is know as Clock angle problem where we need to find angle between hands of an analog clock at a given time.
+Examples:Input:  h = 12:00, m = 30.00 
+Output: 165 degreeInput:  h = 3.00, m = 30.00 Output: 75 degree
+Implement a stack with push(), pop() and min() in O(1) time
+Edit distance
+Maximum of all subarrays of size k
+Pythagorean Triplet
+Boolean Parenthesization
+Implement LRU Cache
+Maximum difference between node and its ancestor in Binary Tree
+Prime siev
+segment trees Implementation
+Graph cycle detection directed
+Graph cycle detection undirected
+Merge Sort
+Quick Sort

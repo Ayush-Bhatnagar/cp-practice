@@ -1,0 +1,71 @@
+Q1. Save all leaf nodes of a Binary tree in a Doubly Linked List by using Right node as Next node and Left Node as Previous Node. 
+Q2. Convert binary tree to doubly linked list or binary search tree to sorted doubly linked list.
+Q3. Given an array, find the maximum j – i such that arr[j] > arr[i].
+Q4. Remove Alternate Duplicate characters from a char array you have to do it in Place. Like keeping only the odd occurrences of each character.
+Q5. Find all nodes at k-distance from a given node in a binary tree.
+Q6. Clone a linked list with next and random pointer
+Q7. Return a tree such that each internal node stores sum of all its child nodes. Each leaf node stores zero.
+Q8. Find sum of data of all leaves of a binary tree on same level and then multiply sums obtained of all levels.
+Q9. Remove duplicates from string in place in O(n).
+Q10. Given two linked lists both represent a number. Create a linked list that contains its sum.
+Q11. Convert a binary tree to its sum tree(each node is the sum of its children)
+Q12. Given an array, arrange the elements such that the number formed by concatenating the elements is highest.
+	  E.g.: input = [9, 93, 24, 6],  the output should be: [9,93,6,24].  This is because if you concatenate all the numbers,   993624 is the highest number that can be formed. 
+Q13. Given a string, find the longest substring which is palindrome.
+Q14. Given an unsorted array of n integers which can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Count frequency of all elements that are present and print the missing elements. Examples: Input: arr[] = {2, 3, 3, 2, 5}   Output: Below are frequencies of all elements   1 -> 0        2 -> 2        3 -> 2        4 -> 0        5 -> 1 
+Q15. Given two strings in lowercase, the task is to make them anagram. The only allowed operation is to remove a character from any string. Find minimum number of characters to be deleted to make both the strings anagram?
+          If two strings contains same data set in any order then strings are called Anagrams.
+          Examples: 
+          Input : str1 = "bcadeh" str2 = "hea"   Output: 3  We need to remove b, c and d from str1. 
+          Input : str1 = "cddgk" str2 = "gcd"  Output: 2 
+          Input : str1 = "bca" str2 = "acb"  Output: 0 
+Q16. Given unsorted array and a number K. Find 2 numbers such that sum is K.
+Q17. Given the root to a binary tree, a value n and k. Find the sum of nodes at distance k from node with value n.
+Q18. Given two sorted arrays (with repetitive elements) find the kth minimum number from both arrays.
+Q19. Construct a binary tree from given inorder and preorder traversals.
+Q 20. Connect nodes on same level in a binary tree.
+Q21, In a file there are 1 million words . Find 10 most frequent words in that file.
+Q22.  Buy and sell stocks
+Q23. Heaps implementation.
+Q24.  Add two numbers represented by linked lists
+Q25. How will you implement linked list with 1 million nodes? How will you access 999999 th node? Give some optimal design strategy and implementation.
+Q26. Given a string example : shoppingwithflipkartiseasy, Now we are given this string and a dictionary containing valid words , now we need to break the sentence into words separated by space. Output : shopping with flipkart is easy
+Q27. Given a maze, a start point and end point find the shortest path to reach the end point from the starting point.
+Q28. Given a dictionary of 50,000 words. Given a phrase without spaces, add spaces to make it a proper sentence. e.g:input:  thequickbrownfoxjumpoverlazydog	  output: the quick brown fox jump over lazy dog 
+Q29 No of islands
+Q30 Level order traversal
+Q31 Check if a binary tree is BST or not
+Q32 Trapping rain water
+Q33 Given a series 2,3,4,5,6,8,9,10,……, here in this series all the numbers are present which have factors only and only either 2,3 or 5. Need to write a node to generate nth number for the series . With best approach and complexity
+Q34 Arrange given numbers to form the biggest number
+Q35 You are given a string of 0’s and 1’s you have to find the number of substrings in the string which starts and end with a 1. eg : input : 0010110010 output : 6
+Q36 Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1’s.
+Q37. Reversal of Linked List in groups of K.
+Q38. Check whether given binary tree is balanced or not. Definition was no two leaves should have height difference of greater than one.
+Q39. You are given an string as input which represents a path. You have to normalize that path inplace(NO EXTRA SPACE). e.g.input : "\a\b\c\..\..\file.txt" output: "\a\file.txt" 
+Q40. A MxN matrix containing integers (positive, negative and zero’s). For every position containing 0, mark the corresponding row and column as 0.
+Q41. Given a matrix of characters and a word. you have to count the number of occurrences of that word in that matrix. you can move to any of the eight valid directions from current position.
+Q42. Find an element in a rotated array
+Q43 Decode ways
+Q44  Rearrange characters in a string such that no two adjacent are same
+Q45 Given a set of intervals like 5-10, 15-20, 25-40, 30-45, 50-100. Find the ith smallest number in these intervals. Assume there are no duplicate numbers. e.g:  1st smallest number = 5	  6th smallest number = 10	 7th smallest number = 15 and so on.
+Q46. calculate ncr using pascal triangle  
+Q47 Given a sentence and a set of characters. Find the minimum window within which the set of characters can be found in the sentence in any order. 
+Q48 Stock span problem
+Q49. Painters partition problem
+Q50 Allocate pages
+Q51 Celebrity problem
+Q52 Aggressive cows
+Q53. Jump Game 4
+Q54. LCS
+Q55. Min Cost climbing stairs
+Q56. Recursive grammar
+Q57. Coin change problem [leetcode]
+Q58. Knapsack problem
+Q59. Count ways to reach the nth stair using step 1, 2 or 3
+Q60. Given n-ary tree. zigzag level order traversal.
+Q61. Least common ancestor of two nodes in a binary tree
+Q62. Given a binary search tree , print the path which has the sum equal to k and has minimum hops. i.e if there are multiple paths with the sum equal to k then print the path with minimum number of nodes.
+Q63. Knapsack 1(At coder eductaional dp)
+Q64. Knapsack 2(At coder educational dp)
+Q65. Subarray with given sum (https://www.geeksforgeeks.org/find-subarray-with-given-sum/)
