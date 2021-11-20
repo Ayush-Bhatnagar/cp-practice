@@ -1,4 +1,3 @@
-Testing this commmit
 # cp-practice
 
 Solving programming questions accross multiple platforms
